@@ -22,10 +22,3 @@ public class Solution {
     }
 }
 
-
-
-package java_output_formatting;
-
-public class Solution {
-    
-}
